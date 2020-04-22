@@ -9,6 +9,8 @@ namespace Exam2_Token
 {
     public class TokenMiddleweare3
     {
+
+        
         private readonly RequestDelegate next;
         private string path;
 
